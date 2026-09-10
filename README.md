@@ -7,6 +7,6 @@
 
 ```mermaid
 flowchart TD
-    A["404 Error"] --> B["Trace & Inspect"]
-    B --> C["Identify & Fix"]
-    C --> D["System Restored & THB 9,000 Saved"]
+    A["Vague Feedback"] --> B["Trace & Inspect"]
+    B --> C["Identify & Refactor"]
+    C --> D["50+ PHP Files Refactored & THB 9,000 Saved"]
